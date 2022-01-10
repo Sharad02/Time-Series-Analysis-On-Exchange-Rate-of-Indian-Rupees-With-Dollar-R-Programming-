@@ -1,2 +1,3 @@
-# assignment-of-R
-USing regression analysis, Multivariate Analysis
+# Case Study:Time Series Analysis On Exchange Rate of Indian Rupees With Dollar
+Time Series Analysis
+
